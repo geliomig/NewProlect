@@ -1,2 +1,2 @@
-# NewProlect
+# NewProject
 Моя первая работа
